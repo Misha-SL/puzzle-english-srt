@@ -1,4 +1,5 @@
-#puzzle-english-srt
+puzzle-english-srt
+==================
 
 Installing
 ----------
