@@ -3,9 +3,9 @@ puzzle-english-srt
 
 Installing
 ----------
-    npm i puzzle-english-url
+    npm i puzzle-english-srt
 or
-    npm i -g puzzle-english-url
+    npm i -g puzzle-english-srt
 
 Usage
 -----
