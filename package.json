@@ -1,0 +1,25 @@
+{
+  "name": "puzzle-english-srt",
+  "version": "1.0.0",
+  "description": "get srt subtitre from puzzle-english site",
+  "main": "index.js",
+  "bin": {
+    "puzzle-english-srt": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.19.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js https://puzzle-movies.com/films/zootopia-2016",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "srt",
+    "puzzle-english",
+    "subtitrle"
+  ],
+  "author": "Mikhail.Liulkovich",
+  "license": "ISC"
+}
